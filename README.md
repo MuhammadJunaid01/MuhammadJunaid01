@@ -7,7 +7,7 @@
 
 Skills: HTML5, CSS3, Bootstrap, React-Bootstrap, Material UI,   JavaScript, React,  Node JS, Express JS, Payment Gateway stripe ,React Router, React Hook Form, 
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Frontend Development. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MuhammadJunaid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MuhammadJunaid/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MuhammadJunaid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/MuhammadJunaid/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>]( https://portfolio-e3e31.web.app/)  
