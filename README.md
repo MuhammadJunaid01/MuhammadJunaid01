@@ -5,7 +5,7 @@
    I am a front-end developer with problem-solving skills and proven experience in creating and designing websites in a test-driven environment.
 
 
-Skills: HTML5, CSS3, Bootstrap, React-Bootstrap, Material UI,   JavaScript, React,  Node JS, Express JS, Payment Gateway stripe ,React Router, React Hook Form, 
+### Skills: HTML5, CSS3, Bootstrap, React-Bootstrap, Material UI,   JavaScript, React,  Node JS, Express JS, Payment Gateway stripe ,React Router, React Hook Form, 
 
 - 🔭 I’m currently working on Frontend Development. 
 
