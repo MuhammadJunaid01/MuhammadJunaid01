@@ -6,7 +6,7 @@
 
 
 ### Skills: HTML5, CSS3, Bootstrap, React-Bootstrap, Material UI,   JavaScript, React,  Node JS, Express JS, Payment Gateway stripe ,React Router, React Hook Form, 
-Tools: VS Code, Git, GitBash, Netlify, Firebase, Heroku, etc.
+#### Tools: VS Code, Git, GitBash, Netlify, Firebase, Heroku, etc.
 
 - 🔭 I’m currently working on Frontend Development. 
 
