@@ -38,7 +38,7 @@ I am a front-end developer with problem-solving skills and proven experience in 
 <p align="left"> <a href="https://www.codepen.io/muhammadjunaid01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/MuhammadJunaid01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mj-juanaid-7358b5216/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18373338/m-junaid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MJunaid05176495" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
-
+<p>hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</p>
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/MuhammadJunaid01"><img src="https://github-readme-stats.vercel.app/api?username=MuhammadJunaid01&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="MuhammadJunaid01's GitHub stats" /></a>
