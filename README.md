@@ -37,8 +37,17 @@ I am a front-end developer with problem-solving skills and proven experience in 
 
 <p align="left"> <a href="https://www.codepen.io/muhammadjunaid01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/MuhammadJunaid01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mj-juanaid-7358b5216/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18373338/m-junaid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MJunaid05176495" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/MuhammadJunaid01/J_mart_front_end" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadJunaid01&repo=J_mart_front_end&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/MuhammadJunaid01/next-js-employee-tracker-dashboard" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadJunaid01&repo=next-js-employee-tracker-dashboard&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/MuhammadJunaid01/j_Mart_Server" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadJunaid01&repo=j_Mart_Server&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<br /><br /><br /><br /><br /><br /><br />
+
+
 ### Badges
-<p>hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</p>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/MuhammadJunaid01"><img src="https://github-readme-stats.vercel.app/api?username=MuhammadJunaid01&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="MuhammadJunaid01's GitHub stats" /></a>
@@ -49,13 +58,6 @@ I am a front-end developer with problem-solving skills and proven experience in 
 
 <a href="https://github.com/MuhammadJunaid01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadJunaid01&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/MuhammadJunaid01/J_mart_front_end" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadJunaid01&repo=J_mart_front_end&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/MuhammadJunaid01/next-js-employee-tracker-dashboard" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadJunaid01&repo=next-js-employee-tracker-dashboard&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<br /><br /><br /><br /><br /><br /><br />
-<div width="100%" align="center"><a href="https://github.com/MuhammadJunaid01/j_Mart_Server" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadJunaid01&repo=j_Mart_Server&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 ### Support Me
