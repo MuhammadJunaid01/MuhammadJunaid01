@@ -7,9 +7,9 @@ Frontend developer
 I am a front-end developer with problem-solving skills and proven experience in creating and designing websites in a test-driven environment.
 
 * 🌍  I'm based in Chittagong,bangladesh.
-* 🖥️  See my portfolio at [https://devjunaid.netlify.app/](http://hnhg)
+* 🖥️  See my portfolio at [https://devjunaid.netlify.app/](https://devjunaid.netlify.app/)
 * ✉️  You can contact me at [hire.developerjunaid@gmail.com](mailto:hire.developerjunaid@gmail.com)
-* 🚀  I'm currently working on [https://jmartju.netlify.app/](http://d)
+* 🚀  I'm currently working on [https://jmartju.netlify.app/](https://jmartju.netlify.app/)
 * 🧠  I'm learning data structure and algorithm
 
 ### Skills
