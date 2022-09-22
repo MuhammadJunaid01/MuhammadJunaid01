@@ -62,4 +62,4 @@ I am a front-end developer with problem-solving skills and proven experience in 
 <br /><br /><br /><br /><br />
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/junaid"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/mjunaidbkhn?new=1"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
