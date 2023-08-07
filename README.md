@@ -1,16 +1,14 @@
-Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)</br> I am  <a href='https://devjunaid.netlify.app/' blank><i>Muhammad Junaid</i></a>
-=======================================================================================================================================
+# Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)</br> I am <a href='https://devjunaid.netlify.app/' blank><i>Muhammad Junaid</i></a>
 
-Frontend developer
-------------------
+## Frontend developer
 
 I am a front-end developer with problem-solving skills and proven experience in creating and designing websites in a test-driven environment.
 
-* 🌍  I'm based in Chittagong,bangladesh.
-* 🖥️  See my portfolio at [https://devjunaid.netlify.app/](https://devjunaid.netlify.app/)
-* ✉️  You can contact me at [dev.junaid.bd@gmail.com](mailto:dev.junaid.bd@gmail.com)
-* 🚀  I'm currently working on [https://jmartju.netlify.app/](https://jmartju.netlify.app/)
-* 🧠  I'm learning data structure and algorithm
+- 🌍  I'm based in Chittagong,bangladesh.
+- 🖥️  See my portfolio at [https://devjunaid.netlify.app/](https://devjunaid.netlify.app/)
+- ✉️  You can contact me at [dev.junaid.bd@gmail.com](mailto:dev.junaid.bd@gmail.com)
+- 🚀  I'm currently working on [https://jmartju.netlify.app/](https://jmartju.netlify.app/)
+- 🧠  I'm learning data structure and algorithm
 
 ### Skills
 
@@ -32,19 +30,21 @@ I am a front-end developer with problem-solving skills and proven experience in 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/muhammadjunaid01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/MuhammadJunaid01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mj-juanaid-7358b5216/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18373338/m-junaid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MJunaid05176495" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/MuhammadJunaid01/J_mart_front_end" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadJunaid01&repo=J_mart_front_end&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/MuhammadJunaid01/next-js-employee-tracker-dashboard" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadJunaid01&repo=next-js-employee-tracker-dashboard&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/MuhammadJunaid01/ar-poribohon" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadJunaid01&repo=ar-poribohon&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/MuhammadJunaid01/food-delivery-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadJunaid01&repo=food-delivery-app&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
 <br /><br /><br /><br /><br /><br /><br />
 <div width="100%" align="center"><a href="https://github.com/MuhammadJunaid01/j_Mart_Server" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadJunaid01&repo=j_Mart_Server&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-<br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/MuhammadJunaid01/J_mart_front_end" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadJunaid01&repo=J_mart_front_end&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
+<br /><br /><br /><br /><br /><br /><br />
 
 ### Badges
 
@@ -58,8 +58,8 @@ I am a front-end developer with problem-solving skills and proven experience in 
 
 <a href="https://github.com/MuhammadJunaid01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadJunaid01&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-
 <br /><br /><br /><br /><br />
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/mjunaidbkhn?new=1"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
