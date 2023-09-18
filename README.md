@@ -7,7 +7,7 @@ I am a front-end developer with problem-solving skills and proven experience in 
 - 🌍  I'm based in Chittagong,bangladesh.
 - 🖥️  See my portfolio at [https://devjunaid.netlify.app/](https://devjunaid.netlify.app/)
 - ✉️  You can contact me at [dev.junaid.bd@gmail.com](mailto:dev.junaid.bd@gmail.com)
-- 🚀  I'm currently working on [https://jmartju.netlify.app/](https://jmartju.netlify.app/)
+- 🔭 I’m currently working on [MindQuest Studio](https://www.linkedin.com/company/mindqueststudio/)
 - 🧠  I'm learning data structure and algorithm
 
 # 💻 Tech Stack:
