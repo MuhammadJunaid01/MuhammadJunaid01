@@ -15,6 +15,8 @@ I am a front-end developer with problem-solving skills and proven experience in 
 
 
 <b>Top Repositories</b>
+<br /><br />
+[![wakatime](https://wakatime.com/badge/user/de964d7a-487b-49af-815c-3de33966572b.svg)](https://wakatime.com/@de964d7a-487b-49af-815c-3de33966572b)
 
 <div width="100%" align="center"><a href="https://github.com/MuhammadJunaid01/ar-poribohon" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadJunaid01&repo=ar-poribohon&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <a href="https://github.com/MuhammadJunaid01/food-delivery-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadJunaid01&repo=food-delivery-app&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
