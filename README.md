@@ -12,12 +12,14 @@ I am a front-end developer with problem-solving skills and proven experience in 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![ReactNative](https://img.shields.io/badge/ReactNative-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=material-ui&logoColor=white) ![ANTDESIGN](https://img.shields.io/badge/ANTDESIGN-%230081CB.svg?style=plastic&logo=ant-design&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) 
-
-
-<b>Top Repositories</b>
-<br /><br />
+<br />
+<br /> 
+<b>Total Work Hours:</b>
+<br /> 
 [![wakatime](https://wakatime.com/badge/user/de964d7a-487b-49af-815c-3de33966572b.svg)](https://wakatime.com/@de964d7a-487b-49af-815c-3de33966572b)
-
+<br />
+<b>Top Repositories</b>
+<br />
 <div width="100%" align="center"><a href="https://github.com/MuhammadJunaid01/ar-poribohon" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadJunaid01&repo=ar-poribohon&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <a href="https://github.com/MuhammadJunaid01/food-delivery-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadJunaid01&repo=food-delivery-app&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
