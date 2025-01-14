@@ -20,15 +20,8 @@ I am a front-end developer with problem-solving skills and proven experience in 
 <br />
 <b>Top Repositories</b>
 <br />
-<div width="100%" align="center"><a href="https://github.com/MuhammadJunaid01/ar-poribohon" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadJunaid01&repo=ar-poribohon&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/MuhammadJunaid01/food-delivery-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadJunaid01&repo=food-delivery-app&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div>
-<br /><br /><br /><br /><br /><br /><br />
-<div width="100%" align="center"><a href="https://github.com/MuhammadJunaid01/j_Mart_Server" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadJunaid01&repo=j_Mart_Server&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<div width="100%" align="center"><a href="https://github.com/MuhammadJunaid01/J_mart_front_end" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadJunaid01&repo=J_mart_front_end&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<br /><br /><br /><br /><br /><br /><br />
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/MuhammadJunaid01/NeovoTech)](https://github.com/MuhammadJunaid01/NeovoTech)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/MuhammadJunaid01/geoFenceApp)](https://github.com/MuhammadJunaid01/geoFenceApp)
 
 ### Badges
 
