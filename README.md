@@ -5,7 +5,7 @@
 I am a front-end developer with problem-solving skills and proven experience in creating and designing websites in a test-driven environment.
 
 - 🌍  I'm based in Chittagong,bangladesh.
-- 🖥️  See my portfolio at [https://devjunaid.netlify.app/](https://devjunaid.netlify.app/)
+- 🖥️  See my portfolio at [https://dev-junaid-portfolio-v2.vercel.app/](https://dev-junaid-portfolio-v2.vercel.app/)
 - ✉️  You can contact me at [dev.junaid.bd@gmail.com](mailto:dev.junaid.bd@gmail.com)
 - 🔭 I’m currently working on [MindQuest Studio](https://www.linkedin.com/company/mindqueststudio/)
 - 🧠  I'm learning data structure and algorithm
