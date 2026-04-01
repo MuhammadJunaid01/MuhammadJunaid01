@@ -1,43 +1,126 @@
-# Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)</br> I am <a href='https://devjunaid.netlify.app/' blank><i>Muhammad Junaid</i></a>
+<div align="center">
 
-## Frontend developer |  App Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=220&section=header&text=Muhammad%20Junaid&fontSize=52&fontColor=fff&fontAlignY=42&desc=Senior%20Full-Stack%20%26%20Mobile%20Developer%20%7C%20Open%20to%20Work&descAlignY=63&descSize=16" width="100%"/>
 
-I am a front-end developer with problem-solving skills and proven experience in creating and designing websites in a test-driven environment.
+<p>
+  <a href="https://junaid-bd.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-View_Live-6366f1?style=for-the-badge" /></a>
+  <a href="mailto:dev.junaid.bd@gmail.com"><img src="https://img.shields.io/badge/📬_Email-Hire_Me-ea4335?style=for-the-badge" /></a>
+  <a href="https://wakatime.com/@de964d7a-487b-49af-815c-3de33966572b"><img src="https://wakatime.com/badge/user/de964d7a-487b-49af-815c-3de33966572b.svg?style=for-the-badge" /></a>
+</p>
 
-- 🌍  I'm based in Chittagong,bangladesh.
-- 🖥️  See my portfolio at [Portfollio](https://junaid-bd.vercel.app/)
-- ✉️  You can contact me at [dev.junaid.bd@gmail.com](mailto:dev.junaid.bd@gmail.com)
-- 🔭 I’m currently working on [MindQuest Studio](https://www.linkedin.com/company/mindqueststudio/)
-- 🧠  I'm learning data structure and algorithm
+</div>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![ReactNative](https://img.shields.io/badge/ReactNative-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=material-ui&logoColor=white) ![ANTDESIGN](https://img.shields.io/badge/ANTDESIGN-%230081CB.svg?style=plastic&logo=ant-design&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) 
-<br />
-<br /> 
-<b>Total Work Hours:</b>
-<br /> 
-[![wakatime](https://wakatime.com/badge/user/de964d7a-487b-49af-815c-3de33966572b.svg)](https://wakatime.com/@de964d7a-487b-49af-815c-3de33966572b)
-<br />
-<b>Top Repositories</b>
-<br />
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/MuhammadJunaid01/NeovoTech)](https://github.com/MuhammadJunaid01/NeovoTech)
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/MuhammadJunaid01/geoFenceApp)](https://github.com/MuhammadJunaid01/geoFenceApp)
+---
 
-### Badges
+## 🧑‍� Professional Summary
 
-<b>My GitHub Stats</b>
+I'm a **Full-Stack & Mobile Developer** with **3+ years of hands-on experience** building production-grade applications. I specialize in creating performant, scalable, and visually polished products — from **cross-platform mobile apps** to **high-traffic Next.js web platforms**.
 
-<a href="http://www.github.com/MuhammadJunaid01"><img src="https://github-readme-stats.vercel.app/api?username=MuhammadJunaid01&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="MuhammadJunaid01's GitHub stats" /></a>
+I bring strong problem-solving skills, a detail-oriented engineering mindset, and a commitment to writing clean, maintainable code in team environments.
 
-<a href="http://www.github.com/MuhammadJunaid01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadJunaid01&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+📍 **Based in:** Chittagong, Bangladesh &nbsp;&nbsp;|&nbsp;&nbsp; 🌏 **Available for:** Remote & On-site roles
 
-<a href="http://www.github.com/MuhammadJunaid01"><img src="https://activity-graph.herokuapp.com/graph?username=MuhammadJunaid01&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+---
 
-<a href="https://github.com/MuhammadJunaid01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadJunaid01&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 💼 Core Competencies
 
-<br /><br /><br /><br /><br />
+| Domain | Technologies | Proficiency |
+|--------|-------------|------------|
+| **Mobile Development** | React Native (iOS & Android) | ⭐⭐⭐⭐⭐ |
+| **Frontend Web** | Next.js, React.js, TypeScript | ⭐⭐⭐⭐⭐ |
+| **Backend & APIs** | Node.js, Express.js, REST | ⭐⭐⭐⭐ |
+| **Database** | MongoDB, Mongoose | ⭐⭐⭐⭐ |
+| **UI Engineering** | Tailwind CSS, MUI, Ant Design | ⭐⭐⭐⭐⭐ |
+| **DevOps & Deploy** | Vercel, Netlify, GitHub Actions, App Store, Play Store | ⭐⭐⭐ |
 
+---
 
-### Support Me
+## 🛠️ Full Tech Stack
 
-<a href="https://www.buymeacoffee.com/mjunaidbkhn?new=1"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Frontend & Mobile**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+**Styling**
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-0081CB?style=flat-square&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
+
+**Tools & Deployment**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## � What I Bring to a Team
+
+- ✅ **Production experience** shipping apps used by real users across iOS and Android
+- ✅ **Full-stack ownership** — from database schema design to polished UI
+- ✅ **Clean, typed code** using TypeScript with consistent patterns
+- ✅ **Problem-solving mindset** in fast-paced, deadline-driven environments
+- ✅ **Strong communication** and experience working in cross-functional teams
+- ✅ **Continuous learner** — currently deepening DSA expertise
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadJunaid01&show_icons=true&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=06b6d4&bg_color=09090b&hide_border=true&rank_icon=github" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadJunaid01&stroke=ffffff&background=09090b&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="160" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadJunaid01&langs_count=8&layout=compact&title_color=a855f7&text_color=ffffff&icon_color=06b6d4&bg_color=09090b&hide_border=true" height="130" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+[![NeovoTech](https://svg.bookmark.style/api?url=https://github.com/MuhammadJunaid01/NeovoTech)](https://github.com/MuhammadJunaid01/NeovoTech)
+[![geoFenceApp](https://svg.bookmark.style/api?url=https://github.com/MuhammadJunaid01/geoFenceApp)](https://github.com/MuhammadJunaid01/geoFenceApp)
+
+---
+
+<div align="center">
+
+## 📬 Let's Work Together
+
+> *I'm actively open to **full-time**, **contract**, and **freelance** opportunities.*
+> *Let's build something great together.*
+
+<a href="mailto:dev.junaid.bd@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Send_Email-dev.junaid.bd@gmail.com-ea4335?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://junaid-bd.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_View_Portfolio-junaid--bd.vercel.app-6366f1?style=for-the-badge" />
+</a>
+
+<br/><br/>
+
+### ☕ Support My Work
+
+<a href="https://www.buymeacoffee.com/mjunaidbkhn?new=1">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" />
+</a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=100&section=footer" width="100%"/>
+
+</div>
