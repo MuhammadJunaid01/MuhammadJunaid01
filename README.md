@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=220&section=header&text=Muhammad%20Junaid&fontSize=52&fontColor=fff&fontAlignY=42&desc=Senior%20Full-Stack%20%26%20Mobile%20Developer%20%7C%20Open%20to%20Work&descAlignY=63&descSize=16" width="100%"/>
 
 <p>
-  <a href="https://junaid-bd.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-View_Live-6366f1?style=for-the-badge" /></a>
+  <a href="https://www.junaid.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-View_Live-6366f1?style=for-the-badge" /></a>
   <a href="mailto:dev.junaid.bd@gmail.com"><img src="https://img.shields.io/badge/📬_Email-Hire_Me-ea4335?style=for-the-badge" /></a>
   <a href="https://wakatime.com/@de964d7a-487b-49af-815c-3de33966572b"><img src="https://wakatime.com/badge/user/de964d7a-487b-49af-815c-3de33966572b.svg?style=for-the-badge" /></a>
 </p>
